@@ -3,8 +3,8 @@
 A Project initiated by GCD Makerspace
 Jaap de Maat (GCD Digital subject leader)
 Matteo Loglio (GCD Digital AL)
-Irene Albino (GCD BA graduate 2017)
-Ellen Jonsson (GCD BA graduate 2017)
+Irene Albino (GCD BA graduate 2018)
+Ellen Jonsson (GCD BA graduate 2018)
 
 
 Online Resources
